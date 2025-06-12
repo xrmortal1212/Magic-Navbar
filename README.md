@@ -2,7 +2,7 @@
 
 **Magic Navbar** is a modern, responsive, and animated navigation bar built using HTML, CSS, and optional JavaScript. Perfect for websites, portfolios, and landing pages.
 
-![Link](https://xrmortal1212.github.io/Magic-Navbar/) <!-- Replace with actual demo GIF or image -->
+(https://xrmortal1212.github.io/Magic-Navbar/) <!-- Replace with actual demo GIF or image -->
 
 ## 🔥 Features
 
@@ -18,10 +18,6 @@
 - CSS3 (Flexbox, Transitions)
 - JavaScript (optional for advanced features)
 
-## 🚀 Demo
-
-👉 [Live Demo](https://your-live-demo-link.com)  
-👉 [CodePen Preview](https://codepen.io/yourname/project-link)
 
 ## 📦 Installation
 
